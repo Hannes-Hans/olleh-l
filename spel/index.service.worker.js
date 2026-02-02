@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1770031832|2419087988';
+const CACHE_VERSION = '1770032110|2697636219';
 /** @type {string} */
 const CACHE_PREFIX = 'gymnasiearbete-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
